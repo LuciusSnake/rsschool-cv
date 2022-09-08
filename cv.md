@@ -1,7 +1,7 @@
 ![avatar](./img/photo_2022-06-15_19-31-12.jpg "MyPhoto")
 # Valentin Poltarzhytski
 ### Contacts
-**Phone:** +375291617703
+**E-mail:** snakeproterianec14@gmail.com
 
 **Discord:** LuciusSnake#6954
 
