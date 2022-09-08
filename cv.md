@@ -1,8 +1,8 @@
 ![avatar](./img/photo_2022-06-15_19-31-12.jpg "MyPhoto")
 # Valentin Poltarzhytski
------
 ### Contacts
 **Phone:** +375291617703
+
 **Discord:** LuciusSnake#6954
 -----
 ### About me:
@@ -12,8 +12,11 @@ I like to learn something new and I do not stop there.
 -----
 ### Skills:
 **1. Programming Languages:** JavaScript.
+
 **2. Frameworks:** React.js.
+
 **3. Programming methodology:** Functional programming.
+
 **4. Version control systems and development tools:** Git.
 -----
 ### Code Example:
@@ -32,6 +35,7 @@ function pillars(num_pill, dist, width) {
 -----
 ### Work experience:
 **1. ToDo App:** https://github.com/LuciusSnake/ToDoApp.git 
+
 **2. Weather App:** https://github.com/LuciusSnake/Weather.git
 -----
 ### Aducation:**
@@ -39,4 +43,5 @@ Frontend-developer. HTML/CSS, JavaScript, React-developer, MyFreedom (Nov 2021 -
 -----
 ### Languages:
 **Russian:** *Proficiency (C2)*.
+
 **English:** *Elementary (A1)*.
